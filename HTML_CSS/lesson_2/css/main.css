@@ -1,0 +1,43 @@
+body {
+  width: 700px;
+  margin: 0 auto;
+  padding: 100px 0;
+
+  font-family: serif;
+
+  background-color: #eee;
+}
+
+/* BEGIN (write your solution here) */
+.default-text {
+  font-weight: normal;
+  text-align: center;
+  color: #646464;
+}
+
+.default-text h1 {
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.default-text h2 {
+  font-weight: inherit;
+  font-size: 40px;
+}
+
+.default-text h3 {
+  font-weight: inherit;
+  font-size: 20px;
+}
+
+.default-text h4 {
+  font-weight: inherit;
+  font-size: 18px;
+}
+
+.default-text p {
+  text-align: justify;
+  font-size: 16px;
+  color: #333
+}
+/* END */
